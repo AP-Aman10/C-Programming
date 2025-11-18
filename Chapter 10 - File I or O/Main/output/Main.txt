@@ -1,0 +1,19 @@
+====*==== [Personal Information] ====*====
+Full Name:= Aman Patidar
+Date of Birth:= 20-11-2005
+Gender:= Male
+
+====*==== [Contact Information] ====*====
+Email Address:= amanpatidar812@gmail.com
+Password:= KnightR@10
+Phone Number:= 9982325319
+
+====*==== [Hobbies & Interests] ====*====
+Coding:= C, C++, Html, Css, Js, Python
+Gaming:= Free Fire, Roblox, Minecraft & Class of Clan
+
+====*==== [Social Media] ====*====
+YouTube:= youtube.com/@AP_Knight10
+Instagram:= instagram.com/its._aman_10
+Facebook:= facebook.com/profile.php?id=100058477825988
+Discord:= discord.gg/nyhdH9y2
