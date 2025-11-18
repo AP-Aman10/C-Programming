@@ -1,0 +1,12 @@
+#include <stdio.h>
+int main(){
+    int size, i, j;
+    printf("Enter the Size: ");
+    scanf("%d", &size);
+    for (i = size; i >= 1; i--) {
+        for (j = 1; j <= i; j++)
+            printf("* ");
+        printf("\n");
+    }
+    return 0;
+}
